@@ -6,3 +6,5 @@ quote = "When life gives you lemons, don't make lemonade. Make life take the lem
 print(f'{name.title()} once said, "{quote}"')
 # I did this for the first famous quote assignment, then realized this one specified what to do
 # I guess I'm just goated like that
+
+# Wait I'm floated
