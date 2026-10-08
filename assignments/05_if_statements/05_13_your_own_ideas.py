@@ -1,0 +1,2 @@
+# Right now I dont hav many ideas for what I can do with my new python skills. I would like to make that uber
+# driver game, I could also use python for calculating complex stuff for my calculus class.
